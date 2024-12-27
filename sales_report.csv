@@ -1,0 +1,601 @@
+Date,Menu Item,Price,Sales Quantity
+2024-09-23,Pad Thai,10.99,2
+2024-09-23,Tom Yum Goong,12.99,4
+2024-09-23,Green Curry,11.99,7
+2024-09-23,Massaman Curry,13.99,0
+2024-09-23,Som Tum,8.99,9
+2024-09-23,Moo Pad Krapow,10.49,6
+2024-09-23,Pad See Ew,9.99,0
+2024-09-23,Thai Spring Rolls,6.99,6
+2024-09-23,Larb,10.99,5
+2024-09-23,Coconut Sticky Rice with Mango,5.99,9
+2024-09-22,Pad Thai,10.99,6
+2024-09-22,Tom Yum Goong,12.99,2
+2024-09-22,Green Curry,11.99,0
+2024-09-22,Massaman Curry,13.99,8
+2024-09-22,Som Tum,8.99,3
+2024-09-22,Moo Pad Krapow,10.49,8
+2024-09-22,Pad See Ew,9.99,9
+2024-09-22,Thai Spring Rolls,6.99,0
+2024-09-22,Larb,10.99,9
+2024-09-22,Coconut Sticky Rice with Mango,5.99,3
+2024-09-21,Pad Thai,10.99,2
+2024-09-21,Tom Yum Goong,12.99,9
+2024-09-21,Green Curry,11.99,1
+2024-09-21,Massaman Curry,13.99,9
+2024-09-21,Som Tum,8.99,4
+2024-09-21,Moo Pad Krapow,10.49,4
+2024-09-21,Pad See Ew,9.99,2
+2024-09-21,Thai Spring Rolls,6.99,7
+2024-09-21,Larb,10.99,8
+2024-09-21,Coconut Sticky Rice with Mango,5.99,8
+2024-09-20,Pad Thai,10.99,9
+2024-09-20,Tom Yum Goong,12.99,8
+2024-09-20,Green Curry,11.99,8
+2024-09-20,Massaman Curry,13.99,5
+2024-09-20,Som Tum,8.99,4
+2024-09-20,Moo Pad Krapow,10.49,0
+2024-09-20,Pad See Ew,9.99,7
+2024-09-20,Thai Spring Rolls,6.99,1
+2024-09-20,Larb,10.99,9
+2024-09-20,Coconut Sticky Rice with Mango,5.99,1
+2024-09-19,Pad Thai,10.99,2
+2024-09-19,Tom Yum Goong,12.99,5
+2024-09-19,Green Curry,11.99,8
+2024-09-19,Massaman Curry,13.99,5
+2024-09-19,Som Tum,8.99,2
+2024-09-19,Moo Pad Krapow,10.49,0
+2024-09-19,Pad See Ew,9.99,0
+2024-09-19,Thai Spring Rolls,6.99,9
+2024-09-19,Larb,10.99,1
+2024-09-19,Coconut Sticky Rice with Mango,5.99,9
+2024-09-18,Pad Thai,10.99,0
+2024-09-18,Tom Yum Goong,12.99,8
+2024-09-18,Green Curry,11.99,7
+2024-09-18,Massaman Curry,13.99,0
+2024-09-18,Som Tum,8.99,4
+2024-09-18,Moo Pad Krapow,10.49,7
+2024-09-18,Pad See Ew,9.99,8
+2024-09-18,Thai Spring Rolls,6.99,7
+2024-09-18,Larb,10.99,1
+2024-09-18,Coconut Sticky Rice with Mango,5.99,6
+2024-09-17,Pad Thai,10.99,8
+2024-09-17,Tom Yum Goong,12.99,2
+2024-09-17,Green Curry,11.99,5
+2024-09-17,Massaman Curry,13.99,1
+2024-09-17,Som Tum,8.99,7
+2024-09-17,Moo Pad Krapow,10.49,7
+2024-09-17,Pad See Ew,9.99,7
+2024-09-17,Thai Spring Rolls,6.99,9
+2024-09-17,Larb,10.99,8
+2024-09-17,Coconut Sticky Rice with Mango,5.99,9
+2024-09-16,Pad Thai,10.99,4
+2024-09-16,Tom Yum Goong,12.99,5
+2024-09-16,Green Curry,11.99,2
+2024-09-16,Massaman Curry,13.99,5
+2024-09-16,Som Tum,8.99,9
+2024-09-16,Moo Pad Krapow,10.49,4
+2024-09-16,Pad See Ew,9.99,0
+2024-09-16,Thai Spring Rolls,6.99,6
+2024-09-16,Larb,10.99,1
+2024-09-16,Coconut Sticky Rice with Mango,5.99,7
+2024-09-15,Pad Thai,10.99,1
+2024-09-15,Tom Yum Goong,12.99,6
+2024-09-15,Green Curry,11.99,4
+2024-09-15,Massaman Curry,13.99,5
+2024-09-15,Som Tum,8.99,7
+2024-09-15,Moo Pad Krapow,10.49,2
+2024-09-15,Pad See Ew,9.99,3
+2024-09-15,Thai Spring Rolls,6.99,0
+2024-09-15,Larb,10.99,9
+2024-09-15,Coconut Sticky Rice with Mango,5.99,6
+2024-09-14,Pad Thai,10.99,8
+2024-09-14,Tom Yum Goong,12.99,8
+2024-09-14,Green Curry,11.99,0
+2024-09-14,Massaman Curry,13.99,8
+2024-09-14,Som Tum,8.99,3
+2024-09-14,Moo Pad Krapow,10.49,8
+2024-09-14,Pad See Ew,9.99,6
+2024-09-14,Thai Spring Rolls,6.99,1
+2024-09-14,Larb,10.99,8
+2024-09-14,Coconut Sticky Rice with Mango,5.99,1
+2024-09-13,Pad Thai,10.99,9
+2024-09-13,Tom Yum Goong,12.99,4
+2024-09-13,Green Curry,11.99,1
+2024-09-13,Massaman Curry,13.99,2
+2024-09-13,Som Tum,8.99,1
+2024-09-13,Moo Pad Krapow,10.49,3
+2024-09-13,Pad See Ew,9.99,7
+2024-09-13,Thai Spring Rolls,6.99,4
+2024-09-13,Larb,10.99,7
+2024-09-13,Coconut Sticky Rice with Mango,5.99,1
+2024-09-12,Pad Thai,10.99,2
+2024-09-12,Tom Yum Goong,12.99,3
+2024-09-12,Green Curry,11.99,5
+2024-09-12,Massaman Curry,13.99,8
+2024-09-12,Som Tum,8.99,5
+2024-09-12,Moo Pad Krapow,10.49,6
+2024-09-12,Pad See Ew,9.99,4
+2024-09-12,Thai Spring Rolls,6.99,0
+2024-09-12,Larb,10.99,4
+2024-09-12,Coconut Sticky Rice with Mango,5.99,7
+2024-09-11,Pad Thai,10.99,6
+2024-09-11,Tom Yum Goong,12.99,7
+2024-09-11,Green Curry,11.99,9
+2024-09-11,Massaman Curry,13.99,4
+2024-09-11,Som Tum,8.99,1
+2024-09-11,Moo Pad Krapow,10.49,0
+2024-09-11,Pad See Ew,9.99,3
+2024-09-11,Thai Spring Rolls,6.99,7
+2024-09-11,Larb,10.99,4
+2024-09-11,Coconut Sticky Rice with Mango,5.99,6
+2024-09-10,Pad Thai,10.99,7
+2024-09-10,Tom Yum Goong,12.99,7
+2024-09-10,Green Curry,11.99,3
+2024-09-10,Massaman Curry,13.99,0
+2024-09-10,Som Tum,8.99,6
+2024-09-10,Moo Pad Krapow,10.49,7
+2024-09-10,Pad See Ew,9.99,5
+2024-09-10,Thai Spring Rolls,6.99,3
+2024-09-10,Larb,10.99,1
+2024-09-10,Coconut Sticky Rice with Mango,5.99,7
+2024-09-09,Pad Thai,10.99,5
+2024-09-09,Tom Yum Goong,12.99,8
+2024-09-09,Green Curry,11.99,5
+2024-09-09,Massaman Curry,13.99,1
+2024-09-09,Som Tum,8.99,3
+2024-09-09,Moo Pad Krapow,10.49,1
+2024-09-09,Pad See Ew,9.99,5
+2024-09-09,Thai Spring Rolls,6.99,5
+2024-09-09,Larb,10.99,8
+2024-09-09,Coconut Sticky Rice with Mango,5.99,3
+2024-09-08,Pad Thai,10.99,2
+2024-09-08,Tom Yum Goong,12.99,4
+2024-09-08,Green Curry,11.99,9
+2024-09-08,Massaman Curry,13.99,7
+2024-09-08,Som Tum,8.99,7
+2024-09-08,Moo Pad Krapow,10.49,9
+2024-09-08,Pad See Ew,9.99,0
+2024-09-08,Thai Spring Rolls,6.99,3
+2024-09-08,Larb,10.99,1
+2024-09-08,Coconut Sticky Rice with Mango,5.99,4
+2024-09-07,Pad Thai,10.99,5
+2024-09-07,Tom Yum Goong,12.99,9
+2024-09-07,Green Curry,11.99,3
+2024-09-07,Massaman Curry,13.99,8
+2024-09-07,Som Tum,8.99,0
+2024-09-07,Moo Pad Krapow,10.49,0
+2024-09-07,Pad See Ew,9.99,3
+2024-09-07,Thai Spring Rolls,6.99,8
+2024-09-07,Larb,10.99,9
+2024-09-07,Coconut Sticky Rice with Mango,5.99,4
+2024-09-06,Pad Thai,10.99,1
+2024-09-06,Tom Yum Goong,12.99,7
+2024-09-06,Green Curry,11.99,8
+2024-09-06,Massaman Curry,13.99,8
+2024-09-06,Som Tum,8.99,2
+2024-09-06,Moo Pad Krapow,10.49,2
+2024-09-06,Pad See Ew,9.99,8
+2024-09-06,Thai Spring Rolls,6.99,2
+2024-09-06,Larb,10.99,9
+2024-09-06,Coconut Sticky Rice with Mango,5.99,0
+2024-09-05,Pad Thai,10.99,2
+2024-09-05,Tom Yum Goong,12.99,4
+2024-09-05,Green Curry,11.99,9
+2024-09-05,Massaman Curry,13.99,9
+2024-09-05,Som Tum,8.99,7
+2024-09-05,Moo Pad Krapow,10.49,8
+2024-09-05,Pad See Ew,9.99,8
+2024-09-05,Thai Spring Rolls,6.99,9
+2024-09-05,Larb,10.99,2
+2024-09-05,Coconut Sticky Rice with Mango,5.99,4
+2024-09-04,Pad Thai,10.99,3
+2024-09-04,Tom Yum Goong,12.99,6
+2024-09-04,Green Curry,11.99,6
+2024-09-04,Massaman Curry,13.99,6
+2024-09-04,Som Tum,8.99,8
+2024-09-04,Moo Pad Krapow,10.49,0
+2024-09-04,Pad See Ew,9.99,8
+2024-09-04,Thai Spring Rolls,6.99,5
+2024-09-04,Larb,10.99,1
+2024-09-04,Coconut Sticky Rice with Mango,5.99,1
+2024-09-03,Pad Thai,10.99,1
+2024-09-03,Tom Yum Goong,12.99,1
+2024-09-03,Green Curry,11.99,0
+2024-09-03,Massaman Curry,13.99,5
+2024-09-03,Som Tum,8.99,3
+2024-09-03,Moo Pad Krapow,10.49,7
+2024-09-03,Pad See Ew,9.99,1
+2024-09-03,Thai Spring Rolls,6.99,7
+2024-09-03,Larb,10.99,5
+2024-09-03,Coconut Sticky Rice with Mango,5.99,7
+2024-09-02,Pad Thai,10.99,5
+2024-09-02,Tom Yum Goong,12.99,3
+2024-09-02,Green Curry,11.99,5
+2024-09-02,Massaman Curry,13.99,1
+2024-09-02,Som Tum,8.99,8
+2024-09-02,Moo Pad Krapow,10.49,2
+2024-09-02,Pad See Ew,9.99,0
+2024-09-02,Thai Spring Rolls,6.99,3
+2024-09-02,Larb,10.99,1
+2024-09-02,Coconut Sticky Rice with Mango,5.99,2
+2024-09-01,Pad Thai,10.99,6
+2024-09-01,Tom Yum Goong,12.99,1
+2024-09-01,Green Curry,11.99,7
+2024-09-01,Massaman Curry,13.99,3
+2024-09-01,Som Tum,8.99,8
+2024-09-01,Moo Pad Krapow,10.49,6
+2024-09-01,Pad See Ew,9.99,1
+2024-09-01,Thai Spring Rolls,6.99,5
+2024-09-01,Larb,10.99,6
+2024-09-01,Coconut Sticky Rice with Mango,5.99,8
+2024-08-31,Pad Thai,10.99,4
+2024-08-31,Tom Yum Goong,12.99,1
+2024-08-31,Green Curry,11.99,2
+2024-08-31,Massaman Curry,13.99,4
+2024-08-31,Som Tum,8.99,3
+2024-08-31,Moo Pad Krapow,10.49,4
+2024-08-31,Pad See Ew,9.99,0
+2024-08-31,Thai Spring Rolls,6.99,5
+2024-08-31,Larb,10.99,2
+2024-08-31,Coconut Sticky Rice with Mango,5.99,3
+2024-08-30,Pad Thai,10.99,8
+2024-08-30,Tom Yum Goong,12.99,7
+2024-08-30,Green Curry,11.99,0
+2024-08-30,Massaman Curry,13.99,6
+2024-08-30,Som Tum,8.99,0
+2024-08-30,Moo Pad Krapow,10.49,0
+2024-08-30,Pad See Ew,9.99,5
+2024-08-30,Thai Spring Rolls,6.99,8
+2024-08-30,Larb,10.99,4
+2024-08-30,Coconut Sticky Rice with Mango,5.99,7
+2024-08-29,Pad Thai,10.99,6
+2024-08-29,Tom Yum Goong,12.99,8
+2024-08-29,Green Curry,11.99,1
+2024-08-29,Massaman Curry,13.99,9
+2024-08-29,Som Tum,8.99,1
+2024-08-29,Moo Pad Krapow,10.49,1
+2024-08-29,Pad See Ew,9.99,6
+2024-08-29,Thai Spring Rolls,6.99,4
+2024-08-29,Larb,10.99,8
+2024-08-29,Coconut Sticky Rice with Mango,5.99,3
+2024-08-28,Pad Thai,10.99,4
+2024-08-28,Tom Yum Goong,12.99,5
+2024-08-28,Green Curry,11.99,3
+2024-08-28,Massaman Curry,13.99,5
+2024-08-28,Som Tum,8.99,8
+2024-08-28,Moo Pad Krapow,10.49,6
+2024-08-28,Pad See Ew,9.99,2
+2024-08-28,Thai Spring Rolls,6.99,6
+2024-08-28,Larb,10.99,2
+2024-08-28,Coconut Sticky Rice with Mango,5.99,7
+2024-08-27,Pad Thai,10.99,7
+2024-08-27,Tom Yum Goong,12.99,2
+2024-08-27,Green Curry,11.99,9
+2024-08-27,Massaman Curry,13.99,9
+2024-08-27,Som Tum,8.99,3
+2024-08-27,Moo Pad Krapow,10.49,9
+2024-08-27,Pad See Ew,9.99,2
+2024-08-27,Thai Spring Rolls,6.99,5
+2024-08-27,Larb,10.99,1
+2024-08-27,Coconut Sticky Rice with Mango,5.99,6
+2024-08-26,Pad Thai,10.99,3
+2024-08-26,Tom Yum Goong,12.99,6
+2024-08-26,Green Curry,11.99,4
+2024-08-26,Massaman Curry,13.99,1
+2024-08-26,Som Tum,8.99,0
+2024-08-26,Moo Pad Krapow,10.49,3
+2024-08-26,Pad See Ew,9.99,5
+2024-08-26,Thai Spring Rolls,6.99,7
+2024-08-26,Larb,10.99,3
+2024-08-26,Coconut Sticky Rice with Mango,5.99,4
+2024-08-25,Pad Thai,10.99,6
+2024-08-25,Tom Yum Goong,12.99,3
+2024-08-25,Green Curry,11.99,1
+2024-08-25,Massaman Curry,13.99,4
+2024-08-25,Som Tum,8.99,9
+2024-08-25,Moo Pad Krapow,10.49,4
+2024-08-25,Pad See Ew,9.99,2
+2024-08-25,Thai Spring Rolls,6.99,0
+2024-08-25,Larb,10.99,9
+2024-08-25,Coconut Sticky Rice with Mango,5.99,1
+2024-08-24,Pad Thai,10.99,2
+2024-08-24,Tom Yum Goong,12.99,2
+2024-08-24,Green Curry,11.99,0
+2024-08-24,Massaman Curry,13.99,4
+2024-08-24,Som Tum,8.99,1
+2024-08-24,Moo Pad Krapow,10.49,9
+2024-08-24,Pad See Ew,9.99,6
+2024-08-24,Thai Spring Rolls,6.99,1
+2024-08-24,Larb,10.99,7
+2024-08-24,Coconut Sticky Rice with Mango,5.99,3
+2024-08-23,Pad Thai,10.99,0
+2024-08-23,Tom Yum Goong,12.99,0
+2024-08-23,Green Curry,11.99,8
+2024-08-23,Massaman Curry,13.99,9
+2024-08-23,Som Tum,8.99,7
+2024-08-23,Moo Pad Krapow,10.49,8
+2024-08-23,Pad See Ew,9.99,7
+2024-08-23,Thai Spring Rolls,6.99,9
+2024-08-23,Larb,10.99,1
+2024-08-23,Coconut Sticky Rice with Mango,5.99,4
+2024-08-22,Pad Thai,10.99,8
+2024-08-22,Tom Yum Goong,12.99,6
+2024-08-22,Green Curry,11.99,0
+2024-08-22,Massaman Curry,13.99,6
+2024-08-22,Som Tum,8.99,0
+2024-08-22,Moo Pad Krapow,10.49,3
+2024-08-22,Pad See Ew,9.99,4
+2024-08-22,Thai Spring Rolls,6.99,0
+2024-08-22,Larb,10.99,3
+2024-08-22,Coconut Sticky Rice with Mango,5.99,6
+2024-08-21,Pad Thai,10.99,8
+2024-08-21,Tom Yum Goong,12.99,7
+2024-08-21,Green Curry,11.99,6
+2024-08-21,Massaman Curry,13.99,1
+2024-08-21,Som Tum,8.99,7
+2024-08-21,Moo Pad Krapow,10.49,7
+2024-08-21,Pad See Ew,9.99,4
+2024-08-21,Thai Spring Rolls,6.99,8
+2024-08-21,Larb,10.99,3
+2024-08-21,Coconut Sticky Rice with Mango,5.99,7
+2024-08-20,Pad Thai,10.99,1
+2024-08-20,Tom Yum Goong,12.99,3
+2024-08-20,Green Curry,11.99,0
+2024-08-20,Massaman Curry,13.99,4
+2024-08-20,Som Tum,8.99,7
+2024-08-20,Moo Pad Krapow,10.49,1
+2024-08-20,Pad See Ew,9.99,2
+2024-08-20,Thai Spring Rolls,6.99,4
+2024-08-20,Larb,10.99,9
+2024-08-20,Coconut Sticky Rice with Mango,5.99,3
+2024-08-19,Pad Thai,10.99,6
+2024-08-19,Tom Yum Goong,12.99,8
+2024-08-19,Green Curry,11.99,6
+2024-08-19,Massaman Curry,13.99,9
+2024-08-19,Som Tum,8.99,6
+2024-08-19,Moo Pad Krapow,10.49,8
+2024-08-19,Pad See Ew,9.99,0
+2024-08-19,Thai Spring Rolls,6.99,4
+2024-08-19,Larb,10.99,2
+2024-08-19,Coconut Sticky Rice with Mango,5.99,3
+2024-08-18,Pad Thai,10.99,0
+2024-08-18,Tom Yum Goong,12.99,5
+2024-08-18,Green Curry,11.99,3
+2024-08-18,Massaman Curry,13.99,2
+2024-08-18,Som Tum,8.99,6
+2024-08-18,Moo Pad Krapow,10.49,0
+2024-08-18,Pad See Ew,9.99,5
+2024-08-18,Thai Spring Rolls,6.99,2
+2024-08-18,Larb,10.99,9
+2024-08-18,Coconut Sticky Rice with Mango,5.99,5
+2024-08-17,Pad Thai,10.99,7
+2024-08-17,Tom Yum Goong,12.99,9
+2024-08-17,Green Curry,11.99,1
+2024-08-17,Massaman Curry,13.99,2
+2024-08-17,Som Tum,8.99,6
+2024-08-17,Moo Pad Krapow,10.49,8
+2024-08-17,Pad See Ew,9.99,8
+2024-08-17,Thai Spring Rolls,6.99,8
+2024-08-17,Larb,10.99,3
+2024-08-17,Coconut Sticky Rice with Mango,5.99,3
+2024-08-16,Pad Thai,10.99,7
+2024-08-16,Tom Yum Goong,12.99,7
+2024-08-16,Green Curry,11.99,0
+2024-08-16,Massaman Curry,13.99,9
+2024-08-16,Som Tum,8.99,0
+2024-08-16,Moo Pad Krapow,10.49,0
+2024-08-16,Pad See Ew,9.99,9
+2024-08-16,Thai Spring Rolls,6.99,1
+2024-08-16,Larb,10.99,6
+2024-08-16,Coconut Sticky Rice with Mango,5.99,9
+2024-08-15,Pad Thai,10.99,0
+2024-08-15,Tom Yum Goong,12.99,5
+2024-08-15,Green Curry,11.99,0
+2024-08-15,Massaman Curry,13.99,6
+2024-08-15,Som Tum,8.99,1
+2024-08-15,Moo Pad Krapow,10.49,7
+2024-08-15,Pad See Ew,9.99,9
+2024-08-15,Thai Spring Rolls,6.99,7
+2024-08-15,Larb,10.99,2
+2024-08-15,Coconut Sticky Rice with Mango,5.99,6
+2024-08-14,Pad Thai,10.99,3
+2024-08-14,Tom Yum Goong,12.99,0
+2024-08-14,Green Curry,11.99,3
+2024-08-14,Massaman Curry,13.99,7
+2024-08-14,Som Tum,8.99,5
+2024-08-14,Moo Pad Krapow,10.49,3
+2024-08-14,Pad See Ew,9.99,5
+2024-08-14,Thai Spring Rolls,6.99,7
+2024-08-14,Larb,10.99,1
+2024-08-14,Coconut Sticky Rice with Mango,5.99,2
+2024-08-13,Pad Thai,10.99,7
+2024-08-13,Tom Yum Goong,12.99,3
+2024-08-13,Green Curry,11.99,0
+2024-08-13,Massaman Curry,13.99,5
+2024-08-13,Som Tum,8.99,2
+2024-08-13,Moo Pad Krapow,10.49,6
+2024-08-13,Pad See Ew,9.99,5
+2024-08-13,Thai Spring Rolls,6.99,3
+2024-08-13,Larb,10.99,7
+2024-08-13,Coconut Sticky Rice with Mango,5.99,5
+2024-08-12,Pad Thai,10.99,1
+2024-08-12,Tom Yum Goong,12.99,3
+2024-08-12,Green Curry,11.99,1
+2024-08-12,Massaman Curry,13.99,8
+2024-08-12,Som Tum,8.99,2
+2024-08-12,Moo Pad Krapow,10.49,3
+2024-08-12,Pad See Ew,9.99,1
+2024-08-12,Thai Spring Rolls,6.99,1
+2024-08-12,Larb,10.99,5
+2024-08-12,Coconut Sticky Rice with Mango,5.99,6
+2024-08-11,Pad Thai,10.99,0
+2024-08-11,Tom Yum Goong,12.99,4
+2024-08-11,Green Curry,11.99,5
+2024-08-11,Massaman Curry,13.99,8
+2024-08-11,Som Tum,8.99,9
+2024-08-11,Moo Pad Krapow,10.49,4
+2024-08-11,Pad See Ew,9.99,2
+2024-08-11,Thai Spring Rolls,6.99,4
+2024-08-11,Larb,10.99,3
+2024-08-11,Coconut Sticky Rice with Mango,5.99,7
+2024-08-10,Pad Thai,10.99,9
+2024-08-10,Tom Yum Goong,12.99,5
+2024-08-10,Green Curry,11.99,2
+2024-08-10,Massaman Curry,13.99,9
+2024-08-10,Som Tum,8.99,7
+2024-08-10,Moo Pad Krapow,10.49,1
+2024-08-10,Pad See Ew,9.99,3
+2024-08-10,Thai Spring Rolls,6.99,1
+2024-08-10,Larb,10.99,5
+2024-08-10,Coconut Sticky Rice with Mango,5.99,1
+2024-08-09,Pad Thai,10.99,6
+2024-08-09,Tom Yum Goong,12.99,9
+2024-08-09,Green Curry,11.99,6
+2024-08-09,Massaman Curry,13.99,3
+2024-08-09,Som Tum,8.99,1
+2024-08-09,Moo Pad Krapow,10.49,5
+2024-08-09,Pad See Ew,9.99,3
+2024-08-09,Thai Spring Rolls,6.99,9
+2024-08-09,Larb,10.99,3
+2024-08-09,Coconut Sticky Rice with Mango,5.99,8
+2024-08-08,Pad Thai,10.99,5
+2024-08-08,Tom Yum Goong,12.99,5
+2024-08-08,Green Curry,11.99,5
+2024-08-08,Massaman Curry,13.99,0
+2024-08-08,Som Tum,8.99,2
+2024-08-08,Moo Pad Krapow,10.49,3
+2024-08-08,Pad See Ew,9.99,6
+2024-08-08,Thai Spring Rolls,6.99,4
+2024-08-08,Larb,10.99,3
+2024-08-08,Coconut Sticky Rice with Mango,5.99,3
+2024-08-07,Pad Thai,10.99,7
+2024-08-07,Tom Yum Goong,12.99,8
+2024-08-07,Green Curry,11.99,1
+2024-08-07,Massaman Curry,13.99,4
+2024-08-07,Som Tum,8.99,3
+2024-08-07,Moo Pad Krapow,10.49,3
+2024-08-07,Pad See Ew,9.99,7
+2024-08-07,Thai Spring Rolls,6.99,7
+2024-08-07,Larb,10.99,0
+2024-08-07,Coconut Sticky Rice with Mango,5.99,2
+2024-08-06,Pad Thai,10.99,5
+2024-08-06,Tom Yum Goong,12.99,5
+2024-08-06,Green Curry,11.99,9
+2024-08-06,Massaman Curry,13.99,5
+2024-08-06,Som Tum,8.99,3
+2024-08-06,Moo Pad Krapow,10.49,6
+2024-08-06,Pad See Ew,9.99,3
+2024-08-06,Thai Spring Rolls,6.99,6
+2024-08-06,Larb,10.99,5
+2024-08-06,Coconut Sticky Rice with Mango,5.99,1
+2024-08-05,Pad Thai,10.99,0
+2024-08-05,Tom Yum Goong,12.99,4
+2024-08-05,Green Curry,11.99,8
+2024-08-05,Massaman Curry,13.99,6
+2024-08-05,Som Tum,8.99,7
+2024-08-05,Moo Pad Krapow,10.49,7
+2024-08-05,Pad See Ew,9.99,2
+2024-08-05,Thai Spring Rolls,6.99,6
+2024-08-05,Larb,10.99,0
+2024-08-05,Coconut Sticky Rice with Mango,5.99,1
+2024-08-04,Pad Thai,10.99,5
+2024-08-04,Tom Yum Goong,12.99,8
+2024-08-04,Green Curry,11.99,3
+2024-08-04,Massaman Curry,13.99,4
+2024-08-04,Som Tum,8.99,8
+2024-08-04,Moo Pad Krapow,10.49,1
+2024-08-04,Pad See Ew,9.99,8
+2024-08-04,Thai Spring Rolls,6.99,1
+2024-08-04,Larb,10.99,5
+2024-08-04,Coconut Sticky Rice with Mango,5.99,5
+2024-08-03,Pad Thai,10.99,4
+2024-08-03,Tom Yum Goong,12.99,3
+2024-08-03,Green Curry,11.99,6
+2024-08-03,Massaman Curry,13.99,0
+2024-08-03,Som Tum,8.99,2
+2024-08-03,Moo Pad Krapow,10.49,3
+2024-08-03,Pad See Ew,9.99,1
+2024-08-03,Thai Spring Rolls,6.99,4
+2024-08-03,Larb,10.99,3
+2024-08-03,Coconut Sticky Rice with Mango,5.99,7
+2024-08-02,Pad Thai,10.99,5
+2024-08-02,Tom Yum Goong,12.99,7
+2024-08-02,Green Curry,11.99,0
+2024-08-02,Massaman Curry,13.99,2
+2024-08-02,Som Tum,8.99,9
+2024-08-02,Moo Pad Krapow,10.49,3
+2024-08-02,Pad See Ew,9.99,6
+2024-08-02,Thai Spring Rolls,6.99,5
+2024-08-02,Larb,10.99,8
+2024-08-02,Coconut Sticky Rice with Mango,5.99,6
+2024-08-01,Pad Thai,10.99,9
+2024-08-01,Tom Yum Goong,12.99,8
+2024-08-01,Green Curry,11.99,1
+2024-08-01,Massaman Curry,13.99,1
+2024-08-01,Som Tum,8.99,5
+2024-08-01,Moo Pad Krapow,10.49,3
+2024-08-01,Pad See Ew,9.99,9
+2024-08-01,Thai Spring Rolls,6.99,6
+2024-08-01,Larb,10.99,3
+2024-08-01,Coconut Sticky Rice with Mango,5.99,4
+2024-07-31,Pad Thai,10.99,3
+2024-07-31,Tom Yum Goong,12.99,7
+2024-07-31,Green Curry,11.99,9
+2024-07-31,Massaman Curry,13.99,9
+2024-07-31,Som Tum,8.99,7
+2024-07-31,Moo Pad Krapow,10.49,4
+2024-07-31,Pad See Ew,9.99,5
+2024-07-31,Thai Spring Rolls,6.99,4
+2024-07-31,Larb,10.99,7
+2024-07-31,Coconut Sticky Rice with Mango,5.99,6
+2024-07-30,Pad Thai,10.99,3
+2024-07-30,Tom Yum Goong,12.99,0
+2024-07-30,Green Curry,11.99,3
+2024-07-30,Massaman Curry,13.99,3
+2024-07-30,Som Tum,8.99,3
+2024-07-30,Moo Pad Krapow,10.49,4
+2024-07-30,Pad See Ew,9.99,9
+2024-07-30,Thai Spring Rolls,6.99,2
+2024-07-30,Larb,10.99,2
+2024-07-30,Coconut Sticky Rice with Mango,5.99,8
+2024-07-29,Pad Thai,10.99,4
+2024-07-29,Tom Yum Goong,12.99,3
+2024-07-29,Green Curry,11.99,3
+2024-07-29,Massaman Curry,13.99,9
+2024-07-29,Som Tum,8.99,2
+2024-07-29,Moo Pad Krapow,10.49,9
+2024-07-29,Pad See Ew,9.99,1
+2024-07-29,Thai Spring Rolls,6.99,0
+2024-07-29,Larb,10.99,2
+2024-07-29,Coconut Sticky Rice with Mango,5.99,8
+2024-07-28,Pad Thai,10.99,2
+2024-07-28,Tom Yum Goong,12.99,6
+2024-07-28,Green Curry,11.99,2
+2024-07-28,Massaman Curry,13.99,2
+2024-07-28,Som Tum,8.99,0
+2024-07-28,Moo Pad Krapow,10.49,7
+2024-07-28,Pad See Ew,9.99,7
+2024-07-28,Thai Spring Rolls,6.99,9
+2024-07-28,Larb,10.99,4
+2024-07-28,Coconut Sticky Rice with Mango,5.99,2
+2024-07-27,Pad Thai,10.99,0
+2024-07-27,Tom Yum Goong,12.99,8
+2024-07-27,Green Curry,11.99,9
+2024-07-27,Massaman Curry,13.99,4
+2024-07-27,Som Tum,8.99,5
+2024-07-27,Moo Pad Krapow,10.49,2
+2024-07-27,Pad See Ew,9.99,1
+2024-07-27,Thai Spring Rolls,6.99,2
+2024-07-27,Larb,10.99,1
+2024-07-27,Coconut Sticky Rice with Mango,5.99,7
+2024-07-26,Pad Thai,10.99,0
+2024-07-26,Tom Yum Goong,12.99,3
+2024-07-26,Green Curry,11.99,5
+2024-07-26,Massaman Curry,13.99,6
+2024-07-26,Som Tum,8.99,6
+2024-07-26,Moo Pad Krapow,10.49,6
+2024-07-26,Pad See Ew,9.99,9
+2024-07-26,Thai Spring Rolls,6.99,9
+2024-07-26,Larb,10.99,9
+2024-07-26,Coconut Sticky Rice with Mango,5.99,6
