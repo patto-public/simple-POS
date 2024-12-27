@@ -1,0 +1,11 @@
+Name,Price,Sales
+Pad Thai,10.99,30
+Tom Yum Goong,12.99,20
+Green Curry,11.99,25
+Massaman Curry,13.99,15
+Som Tum,8.99,10
+Moo Pad Krapow,10.49,12
+Pad See Ew,9.99,18
+Thai Spring Rolls,6.99,22
+Larb,10.99,14
+Coconut Sticky Rice with Mango,5.99,28
